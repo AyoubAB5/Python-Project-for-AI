@@ -1,1 +1,3 @@
-
+import json		
+import oS	
+from deep_translator import MyMemoryTranslator	
